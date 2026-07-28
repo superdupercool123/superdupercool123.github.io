@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>we are doomed</title>
+        <meta name="author" content="superdupercool123"/>
+        <meta name=description" content="we are DOOMED"/>
+        <link rel="icon" href="faveicon.ico" type=" image/x-icon"/>
+    </head>
+    <body>
+        <h6>(warning bad things happen</h6>
+        <h1>reasons why we are doomed</h1>
+        <h2>ai is taking over</h2>
+        <p>sad sad</p>
+        <h2>we are going to explode</h2>
+        <p>i am so so so so scared</p> 
+        <h2>6 sevn is taking over</h2>
+        <p>whyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy</p> 
+        <h2>ipad kids</h2>
+        <p>once, there was a child so addicted to the screen they thought their mom was an ipad</p>
+ <h2>bad things:(</h2>
+        <ul>
+            <li>67</li>
+              <li>mosqitoesssss</li>
+                <li>global warming</li>
+            <li>loose jobs</li>
+            <li>ipad kids</li>
+            <li>poop</li>
+        </ul>
+    </body>
+</html>

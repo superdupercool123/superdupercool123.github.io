@@ -1,6 +1,35 @@
 figcaption {
-    color:darkred;
+    color:rgb(255, 0, 0);
 }
 li:hover {
-    color:rgb(89, 29, 29);
+    color:rgb(255, 0, 0);
+}
+.section1 {
+    background-color:rgb(242, 255, 0);
+    border-radius:100px;
+    border:10px solid rgb(0, 0, 0);
+    text-align: center;
+    
+}
+
+.section2 {
+    background-color:rgb(242, 255, 0);
+    border-radius:100px;
+    border:10px solid rgb(0, 0, 0);
+     text-align: center;
+}
+
+.section3 {
+    background-color:rgb(255, 0, 0);
+    border-radius:100px;
+    border:10px solid rgb(0, 0, 0);
+     text-align: center;
+   
+}
+
+.section4 {
+    text-align: center;
+}
+h1, figcaption, p {
+    font-family: "Beth Ellen";
 }

@@ -4,6 +4,16 @@ figcaption {
 li:hover {
     color:rgb(255, 0, 0);
 }
+
+.flexbox-container {
+    display:flex;
+    flex-direction:row;
+    justify-content: center;
+}
+.fleckr {
+    display:flex
+    flex-direction:column
+}
 .section1 {
     background-color:rgb(242, 255, 0);
     border-radius:100px;
@@ -17,6 +27,7 @@ li:hover {
     border-radius:100px;
     border:10px solid rgb(0, 0, 0);
      text-align: center;
+     display:flex
 }
 
 .section3 {
@@ -29,7 +40,12 @@ li:hover {
 
 .section4 {
     text-align: center;
+    text-shadow: 1px 1px 1px black;
 }
-h1, figcaption, p {
+h1, p, h6{
     font-family: "Beth Ellen";
+}
+.yeah {
+    color: limegreen;
+    text-align: center;
 }

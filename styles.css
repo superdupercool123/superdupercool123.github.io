@@ -9,16 +9,19 @@ li:hover {
     display:flex;
     flex-direction:row;
     justify-content: center;
+    flex-wrap:wrap;
 }
-.fleckr {
-    display:flex
-    flex-direction:column
+
+.flexbox-container img {
+    width:300px;
 }
+
 .section1 {
     background-color:rgb(242, 255, 0);
     border-radius:100px;
     border:10px solid rgb(0, 0, 0);
     text-align: center;
+    width:200px;
     
 }
 
@@ -28,6 +31,7 @@ li:hover {
     border:10px solid rgb(0, 0, 0);
      text-align: center;
      display:flex
+     width:200px;
 }
 
 .section3 {
@@ -35,7 +39,7 @@ li:hover {
     border-radius:100px;
     border:10px solid rgb(0, 0, 0);
      text-align: center;
-   
+   width: 200px;
 }
 
 .section6 {
@@ -43,7 +47,7 @@ li:hover {
     border-radius:100px;
     border:10px solid rgb(0, 0, 0);
      text-align: center;
-   
+    width:200px;
 }
 
 .section5 {
@@ -59,8 +63,9 @@ li:hover {
     text-align: center;
     text-shadow: 1px 1px 1px black;
 }
-h1, p, h6{
+h1, p, h6, h3{
     font-family: "Beth Ellen";
+    text-align: center;
 }
 .yeah {
     color: limegreen;
